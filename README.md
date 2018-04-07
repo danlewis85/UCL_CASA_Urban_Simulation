@@ -7,3 +7,4 @@ Python scripts for Urban Simulation (BENVGSC5)
 4) Simple network analysis on the London tube network (python_igraph and networkx)
 5) Using an OpenStreetMap street network as a graph (python_igraph and networkx)
 6) Community detection algorithm (python_igraph and networkx)
+7) Simple Cellular Automata code
